@@ -1,2 +1,1 @@
-# PreCursoHenry2
-Pre curso N 2 de Henry ok
+Este Prtoyecto es una prueba de como crear un repositorio y clonarlo
